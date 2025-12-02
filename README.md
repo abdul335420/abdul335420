@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=abdul335420&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 </p>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🚀 About Me
 - 🌍 Based in **Pakistan**
